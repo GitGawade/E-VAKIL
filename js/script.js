@@ -31,6 +31,7 @@ window.onload=()=>{
     }
 };
 
+<<<<<<< HEAD
 function form_submited()
 {
     alert("Your Message sended to E-vakeel ");
@@ -52,3 +53,5 @@ function delete_member()
     alert("Your Member is deleted!!!");
 }
 
+=======
+>>>>>>> 3f9a8ef (commit 1)
